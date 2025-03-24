@@ -1,0 +1,66 @@
+# Byte-compiled / compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+*.venv
+*.env
+**/.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+logs/
+
+# Dependency files
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Environment variables
+.env
+.env.*
+.DS_Store
+
+# Database / Cache files
+*.sqlite3
+*.db
+*.sqlite
+*.pkl
+*.cache
+*.pyc
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Build / Distribution files
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Pytest / Coverage reports
+.coverage
+htmlcov/
+*.cover
+.cache/
+nosetests.xml
+coverage.xml
+pytest_cache/
+
+# Docker / Kubernetes
+.dockerignore
+*.dockerfile
+docker-compose.yml
+
+# AWS / Cloud
+.aws/
+.terraform/
+terraform.tfstate*

@@ -1,5 +1,0 @@
-train: /content/drive/MyDrive/SiteVision Part 1/dataset/train
-val: /content/drive/MyDrive/SiteVision Part 1/dataset/val
-
-nc: 9
-names: ['Paver', 'Compactor', 'Bulldozer', 'Excavator', 'Concrete Mixture', 'Crane', 'Dump Truck', 'Utility Ducts', 'Concrete Pumps']

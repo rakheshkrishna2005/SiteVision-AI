@@ -1,0 +1,12 @@
+streamlit
+torch
+torchvision
+pillow
+numpy
+opencv-python
+pandas
+pymongo
+plotly
+matplotlib
+reportlab
+python-dotenv
