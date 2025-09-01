@@ -45,13 +45,7 @@ Real-time construction equipment detection and activity analysis using YOLOv8 ob
 - 🚰 Concrete Pumps
 
 ### Screenshots
-![Construction Activity App](https://github.com/rakheshkrishna2005/SiteVision-AI/tree/main/Construction%20Activity/app_screenshot.png)
-
-### Usage
-```bash
-cd "Construction Activity"
-streamlit run app.py
-```
+![Construction Activity App](https://github.com/rakheshkrishna2005/SiteVision-AI/blob/main/Construction%20Activity/app_screenshot.png)
 
 ---
 
@@ -84,14 +78,8 @@ Advanced construction progress measurement using U-Net semantic segmentation. An
 - ⚫ **Background**: Non-construction areas
 
 ### Screenshots
-![Construction Progress App 1](https://github.com/rakheshkrishna2005/SiteVision-AI/tree/main/Construction%20Progress/app_screenshot1.jpg)
-![Construction Progress App 2](https://github.com/rakheshkrishna2005/SiteVision-AI/tree/main/Construction%20Progress/app_screenshot2.jpg)
-
-### Usage
-```bash
-cd "Construction Progress"
-streamlit run app.py
-```
+![Construction Progress App 1](https://github.com/rakheshkrishna2005/SiteVision-AI/blob/main/Construction%20Progress/app_screenshot1.jpg)
+![Construction Progress App 2](https://github.com/rakheshkrishna2005/SiteVision-AI/blob/main/Construction%20Progress/app_screenshot2.jpg)
 
 ---
 
@@ -123,13 +111,7 @@ Interactive geospatial visualization of construction progress across multiple si
 - 📍 **Location Markers**: Site-specific information
 
 ### Screenshots
-![Progress Map App](https://github.com/rakheshkrishna2005/SiteVision-AI/tree/main/Progress%20Map/app_screeenshot.jpg)
-
-### Usage
-```bash
-cd "Progress Map"
-streamlit run app.py
-```
+![Progress Map App](https://github.com/rakheshkrishna2005/SiteVision-AI/blob/main/Progress%20Map/app_screeenshot.jpg)
 
 ---
 
